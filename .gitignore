@@ -1,0 +1,3 @@
+./src/wallet/keys
+./src/wallet/test
+./.gitignore
